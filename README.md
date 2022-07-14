@@ -6,10 +6,6 @@
 - 🎉 Let's connect [here](https://www.linkedin.com/in/tejas-jawale-05615b160/).
 
 <!-- - 📫 How to reach me **jawaletejas1299@gmail.com** -->
-<<<<<<< HEAD
-=======
-- 🎉 Let's connect [here](https://www.linkedin.com/in/tejas-jawale-05615b160/).
->>>>>>> aaa94d6be1f3fbed962aae761f12cdcfa0b8fd5e
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
