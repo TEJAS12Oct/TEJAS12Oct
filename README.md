@@ -4,7 +4,6 @@
 - 💬 Ask me about ** Java , MySql **
 
 <!-- - 📫 How to reach me **jawaletejas1299@gmail.com** -->
-
 - 🎉 Let's connect [here](https://www.linkedin.com/in/tejas-jawale-05615b160/).
 
 <hr>
