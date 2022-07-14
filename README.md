@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tejas Jawale</h1>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **PG-DAC**
 - 💬 Ask me about ** Java , MySql **
 - 📫 Reach me at **jawaletejas1299@gmail.com**
 - 🎉 Let's connect [here](https://www.linkedin.com/in/tejas-jawale-05615b160/).
