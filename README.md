@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tejas Jawale</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I am Tejas Jawale</h1>
 
 - 🌱 I’m currently learning **PG-DAC**
 - 💬 Ask me about ** Java , MySql **
