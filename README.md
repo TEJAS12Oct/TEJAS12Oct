@@ -48,12 +48,12 @@
   </a>
   <br/>
 </details>
-
+<!--
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
    <a href="https://github.com/TEJAS12Oct/github-readme-activity-graph"><img alt="Tejas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TEJAS12Oct&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-</details>
+</details> -->
 
 <!--
 **TEJAS12Oct/TEJAS12Oct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
